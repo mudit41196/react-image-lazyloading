@@ -1,0 +1,31 @@
+const images = [
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=A&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=B&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=C&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=D&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=E&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=F&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=G&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=H&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=I&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=J&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=K&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=L&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=M&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=N&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=O&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=P&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=Q&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=R&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=S&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=T&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=U&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=V&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=W&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=X&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=Y&font=lobster",
+  "https://fakeimg.pl/420x320/ff0000,128/333333,255/?text=Z&font=lobster",
+
+];
+
+export default images;
